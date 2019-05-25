@@ -1,0 +1,38 @@
+body
+{
+	background-color: #232323;
+	margin: 0;
+}
+h1
+{
+	color : white;
+	text-align: center;
+
+}
+
+p 
+{
+	color : black;
+	text-align: center;
+	background-color: white;
+}
+#container
+{
+	margin: 0 auto;
+	width: 30%;
+}
+.square
+{
+	width: 30%;
+	padding-bottom: 30%;
+	float: left;
+	margin: 1.66%;
+	background-color: white;
+	border-radius: 50%;
+	transition: background 0.5s;
+}
+#blue
+{
+	background-color: #2b69ce;
+	margin-top: 0;
+}
